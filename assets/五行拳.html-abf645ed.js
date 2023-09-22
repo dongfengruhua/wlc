@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o as a,c as o,b as e,d as r}from"./app-e3a62ffd.js";const c={},_=e("h1",{id:"五行拳",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#五行拳","aria-hidden":"true"},"#"),r(" 五行拳")],-1),s=[_];function n(d,i){return a(),o("div",null,s)}const f=t(c,[["render",n],["__file","五行拳.html.vue"]]);export{f as default};
